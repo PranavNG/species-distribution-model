@@ -101,6 +101,7 @@ Add the original dataset source here: https://www.kaggle.com/competitions/predic
 # Running the Project
 Clone the repository:
 git clone https://github.com/PranavNG/species-distribution-model.git
+
 cd species-distribution-modelling
 
 # Create a virtual environment:
@@ -118,7 +119,9 @@ pip install -r requirements.txt
 
 Then open the notebooks in order:
 01_exploratory_data_analysis.ipynb
+
 02_logistic_regression_baseline.ipynb
+
 03_regularised_logistic_regression.ipynb
 
 # Key Takeaways
