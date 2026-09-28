@@ -43,9 +43,8 @@ species-distribution-modelling/
 ├── data/
 │   └── README.md
 │
-├── README.md
-├── requirements.txt
-└── .gitignore
+├── README.md 
+└── requirements.txt
 ```
 # Exploratory Data Analysis
 The exploratory analysis focused on understanding the structure of the dataset before modelling.
