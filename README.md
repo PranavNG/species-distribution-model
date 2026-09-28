@@ -73,13 +73,13 @@ Cross-validation and model tuning were used to evaluate the regularised model mo
 # Model Evaluation
 The models were evaluated using classification metrics and validation techniques.
 Depending on the notebook outputs, these may include:
-- Accuracy
-- Precision
-- Recall
+- AUC
+- Log loss
+- Brier score
+- TSS
 - F1 Score
 - ROC-AUC
-- Confusion Matrix
-- Cross-validation performance
+- Continuous Boyce Index
 Only keep the metrics above that are actually calculated in the notebooks.
 # Team Project Context
 This work was originally completed as part of a UNSW group academic project.
